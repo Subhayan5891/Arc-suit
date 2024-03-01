@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/yolov8/data/train
+val: /content/drive/MyDrive/yolov8/data/valid
+
+nc: 2
+names: ['Arcsuite','No_Arcsuite']
+

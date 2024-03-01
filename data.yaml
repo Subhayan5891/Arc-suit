@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YoloV8_arcsuite_mp/data/train
+val: /content/drive/MyDrive/YoloV8_arcsuite_mp/data/valid
+
+nc: 2
+names: ['Arcsuite','No_Arcsuite']
